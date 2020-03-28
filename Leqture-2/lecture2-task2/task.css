@@ -1,0 +1,118 @@
+.dot{ 
+    border: dotted;
+    border-color: aqua;
+}
+
+.dashed{
+    border: dashed;
+    border-color: aqua;
+}
+
+.solid{
+    border: solid;
+    border-color: aqua;
+}
+
+.double{
+    border: double;
+    border-color: aqua;
+}
+
+.groove{
+    border: groove;
+    border-color: aqua;
+}
+
+.ridge{
+    border: ridge;
+    border-color: aqua;
+}
+
+.inset{
+    border: inset;
+    border-color: aqua;
+}
+
+.outset{
+    border: outset;
+    border-color: aqua;
+}
+
+.none{
+    border: none;
+}
+
+.hidden{
+    border: hidden;
+}
+
+.mix{
+    border-style: dotted hidden solid double;
+    border-color: aqua;
+}
+
+.bord{
+    border: solid;
+}
+
+
+.radiuscolor{
+    border: solid;
+    border-radius: 50px;
+    width: 200px;
+    height: 150px;
+    background-color: red;
+}
+
+.border1{
+    border: solid;
+    border-radius: 50px;
+    width: 200px;
+    height: 150px;
+}
+
+.radius1{
+    background-color: red;
+    border: hidden;
+    border-radius: 15px 50px 30px 5px;
+    width: 200px;
+    height: 150px;
+}
+.radius2{
+    background-color: red;
+    border: hidden;
+    border-radius: 15px 50px 30px;
+    width: 200px;
+    height: 150px;
+}
+
+.radius3{
+    background-color: red;
+    border: hidden;
+    border-radius: 15px 50px;
+    width: 200px;
+    height: 150px;
+}
+
+.radius4{
+    background-color: red;
+    border: hidden;
+    border-radius: 50px/15px;
+    width: 200px;
+    height: 150px;
+}
+
+.radius5{
+    background-color: red;
+    border: hidden;
+    border-radius: 15px/50px;
+    width: 200px;
+    height: 150px;
+}
+.radius6{
+    background-color: red;
+    border: hidden;
+    border-radius: 50%;
+    width: 200px;
+    height: 150px;
+}

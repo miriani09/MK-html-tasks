@@ -1,0 +1,73 @@
+body{
+    background-image: url(img/bg.jpg)
+}
+
+.txt{
+    margin-left: 150px;
+    color: white;
+    font-size: 20px;
+
+}
+
+.sizepic{
+    width: 300px;
+    height: 200px;
+    margin-left: 150px;
+}
+
+.sizepic2{
+    width: 250px;
+    height: 200px;
+    margin-left: 100px;
+}
+
+.txt2{
+    margin-left: 370px;
+    color: white;
+    width: 900px;
+    font-size: 20px;
+
+}
+
+.txt3{
+    margin-left: 300px;
+    color: white;
+    width: 900px;
+    font-size: 20px;
+
+
+}
+
+.pic3{
+    width: 300px;
+    height: 200px;
+    margin-right: 200px;
+}
+
+.sizepic3{
+    width: 600px;
+    height: 300px;
+    margin-left: 150px;
+}
+
+.picflash{
+    width: 500px;
+    height: 250px;
+    margin-left: 500px;
+}
+
+.main{
+    font-size: 20px;
+    margin-left: 150px;
+    color: white;
+}
+
+
+.mainpic{
+    margin:0 auto;
+    padding: 10px;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
