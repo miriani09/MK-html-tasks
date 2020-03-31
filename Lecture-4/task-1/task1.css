@@ -1,0 +1,33 @@
+.table{
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+    background-color: silver;
+}
+
+.table, tr, td{
+    border: solid 1px black;
+}
+
+
+
+.color1{
+    background-color: red;
+    }
+
+.color2{
+    background-color: greenyellow;
+}
+
+.color3{
+    background-color: white;
+}
+
+.color4{
+    background-color: blue;
+}
+
+
+.td1{
+    height: 30px;
+}

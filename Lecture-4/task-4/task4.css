@@ -1,0 +1,26 @@
+.table{
+    width: 800px;
+    height: 550px;
+    margin: auto;
+}
+
+.table, tr, td{
+    border: solid 1px black;
+
+}
+
+.td1{
+    padding: 30px;
+}
+
+.td2{
+    height: 30px;
+}
+
+.td3{
+    width: 700px;
+}
+
+.tr1{
+    height: 200px;
+}

@@ -1,0 +1,12 @@
+.table{
+    border: solid;
+    width: 700px;
+    height: 450px;
+    margin: auto;
+}
+
+
+.table, tr , td {
+    border: solid 1px black;
+}
+

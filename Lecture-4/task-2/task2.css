@@ -1,0 +1,14 @@
+
+table{
+    width: 600px;
+    height: 300px;
+    margin: auto;
+}
+
+table ,tr, td, th{
+    border: solid 1px black;
+}
+
+.tr5{
+    background-color: green;
+}
