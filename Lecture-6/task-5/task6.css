@@ -1,0 +1,26 @@
+body{
+    background: silver;
+  }
+  table{
+    border: 1px solid black;
+    width: 700px;
+    height: 50px;
+    margin: auto;
+  }
+  td{
+    border: 1px solid black;
+  }
+  .td1{
+    background-color: #c9d9eb;
+    text-align: center;
+  }
+  .table2{
+    height: 500px;
+    text-align: center;
+    background: white;
+  }
+  .td2{
+    color: red;
+    font-weight: bold;
+  }
+  
