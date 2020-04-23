@@ -1,0 +1,74 @@
+.div1{
+    width: 1000px;
+    height: 100px;
+    background-color: green;
+    border: none;
+    margin: auto;
+    position: relative;
+    padding-left: 10px;
+  }
+
+  .div2{
+    width: 250px;
+    height: 50px;
+    background-color: turquoise;
+    position: absolute;
+    top: 130px;
+    left: 280px;
+}
+
+.div3{
+    width: 250px;
+    height: 50px;
+    background-color: turquoise;
+    position: absolute;
+    top: 190px;
+    left: 280px;
+}
+
+.div4{
+    width: 250px;
+    height: 50px;
+    background-color: turquoise;
+    position: absolute;
+    top: 250px;
+    left: 280px;
+}
+
+.div5{
+    width: 250px;
+    height: 50px;
+    background-color: turquoise;
+    position: absolute;
+    top: 310px;
+    left: 280px;
+}
+
+.div6{
+    width: 250px;
+    height: 50px;
+    background-color: turquoise;
+    position: absolute;
+    top: 370px;
+    left: 280px;
+}
+
+.div7{
+    width: 600px;
+    height: 300px;
+    position: relative;
+    top: 15px;
+    left: 550px;
+}
+
+.div8{
+    width: 1000px;
+    height: 100px;
+    position: relative;
+    margin: auto;
+    background-color: green;
+    margin: auto;
+    color: white;
+    text-align: center;
+    
+}
