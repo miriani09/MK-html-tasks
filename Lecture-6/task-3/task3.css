@@ -1,0 +1,70 @@
+.div1{
+    border: solid 2px black;
+    width: 1050px;
+    height: 500px;
+    background-color: silver;
+    position: relative;
+    margin: auto;
+}
+
+.pic1, .pic2, .pic3, .pic4{
+	width: 200px;
+	height: 200px;
+}
+.pic2{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+.pic3{
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+.pic4{
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+.pic5, .pic6, .pic7, .pic8, .pic9, .pic10, .pic11, .pic12{
+	width: 150px;
+	height: 150px;
+}
+.pic5{
+	position: relative;
+	left: 50px;
+}
+.pic6{
+	position: relative;
+	left: 300px;
+}
+.pic7{
+	position: relative;
+	top: 60px;
+	left: 120px;
+}
+.pic8{
+	position: relative;
+	top: 120px;
+	right: 60px;
+}
+.pic9{
+	position: relative;
+	top: 180px;
+	right: 240px;
+}
+.pic10{
+	position: relative;
+	top: -85px;
+	left: 300px;
+}
+.pic11{
+	position: relative;
+	top: -35px;
+	left: 200px;
+}
+.pic12{
+	position: relative;
+	top: 25px;
+	left: 90px;
+}
