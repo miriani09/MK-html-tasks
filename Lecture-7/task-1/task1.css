@@ -53,10 +53,80 @@ footer{
     height: 100px;
     background-color: darkslategray;
     border-top: solid 4px greenyellow;
-
+    margin-top: 10px;
 }
 .txt4{
     font-size: 15px;
     color: darkgoldenrod;
     text-align: center;
+}
+
+.div6{
+    width: 790px;
+    height: 200px;
+    margin: auto;
+    border: solid 5px grey;
+    position: relative;
+    
+}
+
+.cont1{
+    width: 800px;
+    min-height: 400px;
+    margin: auto;
+    position: relative;
+}
+
+
+
+.div7{
+    width: 500px;
+    min-height: 500px;
+    position: relative;
+    
+}
+
+.div8{
+    width: 275px;
+    min-height: 200px;
+    border: solid 1px lightgray;
+    border-radius: 20px;
+    position: absolute;
+    top: 10px;
+    right: 0px;
+}
+
+.div9{
+    width: 275px;
+    min-height: 200px;
+    border: solid 1px lightgray;
+    border-radius: 20px;
+    position: absolute;
+    top: 275px;
+    right: 0px;
+}
+
+.div10{
+    width: 275px;
+    min-height: 150px;
+    border: solid 1px lightgray;
+    border-radius: 20px;
+    position: absolute;
+    top: 490px;
+    right: 0px;
+}
+
+.div11{
+    width: 150px;
+    height: 25px;
+    border: solid 1px black;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+.pic2{
+    margin-left: 190px;
+    position: relative;
+    bottom: 13px;
 }

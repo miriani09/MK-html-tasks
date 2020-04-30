@@ -53,10 +53,225 @@ footer{
     height: 100px;
     background-color: darkslategray;
     border-top: solid 4px greenyellow;
-
+    margin-top: 10px;
 }
 .txt4{
     font-size: 15px;
     color: darkgoldenrod;
     text-align: center;
+}
+
+.div6{
+    width: 790px;
+    height: 200px;
+    margin: auto;
+    border: solid 5px grey;
+    position: relative;
+    
+}
+
+.cont1{
+    width: 800px;
+    min-height: 400px;
+    margin: auto;
+    position: relative;
+}
+
+
+
+.div7{
+    width: 500px;
+    min-height: 500px;
+    position: relative;
+    
+}
+
+.div8{
+    width: 275px;
+    min-height: 200px;
+    border: solid 1px lightgray;
+    border-radius: 20px;
+    position: absolute;
+    top: 10px;
+    right: 0px;
+}
+
+.div9{
+    width: 275px;
+    min-height: 200px;
+    border: solid 1px lightgray;
+    border-radius: 20px;
+    position: absolute;
+    top: 275px;
+    right: 0px;
+}
+
+.div10{
+    width: 275px;
+    min-height: 150px;
+    border: solid 1px lightgray;
+    border-radius: 20px;
+    position: absolute;
+    top: 490px;
+    right: 0px;
+}
+
+.div11{
+    width: 150px;
+    height: 25px;
+    border: solid 1px black;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+.pic2{
+    margin-left: 190px;
+    position: relative;
+    bottom: 13px;
+}
+
+.divv{
+    position: relative;
+    width: 800px;
+    height: 100px;
+    border: solid 1px black;
+    margin: 10px;
+}
+
+.pic4{
+    width: 100px;
+    height: 100px;
+
+}
+
+.pic5{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 595px;
+  
+}
+
+.pic6{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 135px;
+}
+
+.divv2{
+    width: 800px;
+    min-height: 300px;
+
+}
+
+
+.pic7{
+    width: 300px;
+    height: 150px;
+    position: relative;
+
+}
+
+.divv3{
+  float: left;
+}
+
+.divv4{
+    float: right;
+  }
+
+  .divv5{
+      position: relative;
+      left: 210px;
+  }
+
+table{
+      background-color: wheat;
+      border: solid 1px white;
+      margin: auto;
+      width: 800px;
+      height: 200px;
+  }
+
+  tr,td{
+      border: solid 1px white;
+  }
+
+  .tr1{
+      background-color: black;
+  }
+
+  .cont2{
+      width: 800px;
+      min-height: 20px;
+      margin: auto;
+      position: relative;
+  }
+
+
+  .table1{
+      background-color: white;
+      border: solid 1px black;
+      width: 500px;
+      height: 200px;
+      margin-right: 0px;
+      position: relative;
+      bottom: 60px;
+  }
+
+  .td2{
+    border: solid 1px black;
+  }
+
+  .txt5{
+      position: relative;
+
+  }
+  .txt6{
+    position: relative;
+    top: 20px;
+
+}
+
+.txt7{
+    position: relative;
+    bottom: 60px;
+}
+
+.divs{
+    width: 20px;
+    height: 20px;
+    background-color: lightgray;
+    border: solid 1px black;
+    left: 300px;
+    position: relative;
+    bottom: 94px;
+
+}
+
+.divt{
+    width: 500px;
+    height: 30px;
+    border: solid 1px black;
+    left: 300px;
+    position: relative;
+    bottom: 100px;
+}
+
+.divb{
+    width: 100px;
+    height: 50px;
+    background-color: darkslategray;
+    left: 702px;
+    position: relative;
+    bottom: 80px;
+}
+
+.txt8{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 15px;
 }
