@@ -1,0 +1,14 @@
+.div1{
+    width: 1100px;
+    height: 300px;
+    border: solid 1px black;
+    background-color: lightblue;
+    margin: auto;
+}
+
+.img1{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin-left: 70px;
+}

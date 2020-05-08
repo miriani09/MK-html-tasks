@@ -1,0 +1,67 @@
+.div1{
+    width: 1000px;
+    height: 300px;
+    border: solid 1px black;
+    margin: auto;
+    position: relative;
+}
+
+.div2{
+    width: 800px;
+    height: 210px;
+    border: solid 1px black;
+    background-color: grey;
+    position: relative;
+    left: 10px;
+}
+
+.div3{
+    width: 200px;
+    height: 100px;
+    border: solid 2px green;
+    background-color: yellow;
+    border-radius: 0px 50px 50px 0px;
+    margin-left: 80px;
+    position: relative;
+    top: 80px;
+}
+
+.divv{
+    width: 700px;
+    height: 250px;
+    border: solid 1px black;
+    margin: auto;
+    position: absolute;
+    margin-left: 259px;
+}
+
+.div5{
+    width: 698px;
+    height: 240px;
+    border: solid 1px black;
+    background-color: grey;
+    position: relative;
+    top: 2px;
+}
+
+.div6{
+    width: 200px;
+    height: 100px;
+    border: solid 4px blue;
+    background-color: yellow;
+    border-radius: 0px 90px 0px 90px;
+    margin-left: 100px;
+    position: relative;
+    top: 50px;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    border: solid 1px black;
+    margin-left: 500px;
+    position: relative;
+    bottom: 40px;
+    
+}
+
