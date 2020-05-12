@@ -3,7 +3,8 @@
     25%  {background-color:yellow; left:700px; top:0px;}
     50%  {background-color:blue; left:700px; top:400px;}
     75%  {background-color:green; left:0px; top:400px;}
-    100% {background-color:lightblue; left:0px; top:0px;}
+    85% {background-color:lightblue; left:0px; top:0px;}
+    100% {background-color:skyblue; left: 700px; top: 400px;}
   }
   
   .div2 {
@@ -12,8 +13,9 @@
     position: relative;
     background-color: red;
     animation-name: example;
-    animation-duration: 5s;
-    animation-iteration-count: infinite;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
   }
 
 
