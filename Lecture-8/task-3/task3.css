@@ -1,0 +1,25 @@
+form{
+    width: 900px;
+    height: 600px;
+    border: solid 1px green;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(204, 240, 204);
+    margin: auto;
+}
+
+.inp1{
+    width: 400px;
+    height: 30px;
+    border: solid 1px green;
+    border-radius: 5px 5px 5px 5px;
+    position: relative;
+    margin: 10px;
+}
+.inp2{
+    width: 400px;
+    height: 120px;
+    border: solid 1px green;
+    border-radius: 5px 5px 5px 5px;
+    position: relative;
+    margin: 10px;
+}

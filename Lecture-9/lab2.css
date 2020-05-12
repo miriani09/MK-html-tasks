@@ -1,0 +1,26 @@
+@keyframes example {
+    0%   {background-color:blueviolet; left:0px; top:0px;}
+    25%  {background-color:yellow; left:700px; top:0px;}
+    50%  {background-color:blue; left:700px; top:400px;}
+    75%  {background-color:green; left:0px; top:400px;}
+    100% {background-color:lightblue; left:0px; top:0px;}
+  }
+  
+  .div2 {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+  }
+
+
+
+.div1 {
+    width: 800px;
+    height: 500px;
+    border: solid 2px black;
+    margin: auto;
+  }
