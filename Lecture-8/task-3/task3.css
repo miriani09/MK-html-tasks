@@ -1,6 +1,6 @@
 form{
     width: 900px;
-    height: 600px;
+    height: 500px;
     border: solid 1px green;
     border-radius: 5px 5px 5px 5px;
     background-color: rgb(204, 240, 204);
@@ -22,4 +22,47 @@ form{
     border-radius: 5px 5px 5px 5px;
     position: relative;
     margin: 10px;
+}
+
+hr{
+    width: 790px;
+    margin-top: 100px;
+    background-color: greenyellow;
+
+}
+
+.div1{
+    position: absolute;
+    margin-left: 450px;
+    top: 40px;
+    width: 350px;
+    height: 350px;
+}
+
+.text1{
+    color: green;
+}
+
+.div2{
+    width: 250px;
+    height: 50px;
+    background-color: green;
+    margin: auto;
+    border-radius: 5px 5px 5px 5px;
+    text-align: center ;
+    padding: 5px;
+    color: white;
+    font-size: large;
+}
+
+.btn{
+    margin-left: 350px;
+    background-color: green;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-size: medium;
+    cursor: pointer;
 }
