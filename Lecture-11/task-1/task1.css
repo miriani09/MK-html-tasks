@@ -1,0 +1,66 @@
+.div1{
+    width: 800px;
+    min-height: 100px;
+    background-color: silver;
+    border: solid 2px black;
+    margin: auto;
+}
+
+.div2{
+    width: 600px;
+    min-height: 50px;
+    border: solid 2px black;
+    margin: auto;
+    position: relative;
+}
+
+.div3{
+    width: 600px;
+    min-height: 50px;
+    background-color: yellow;
+    border: solid 2px black;
+    margin: auto;
+    position: relative;
+}
+
+.div4{
+    width: 600px;
+    min-height: 50px;
+    background-color: red;
+    border: solid 2px black;
+    margin: auto;
+}
+
+@font-face{
+    font-family: geofont;
+    src: url(3d_unicode.ttf);
+    font-family: geofontmtavruli;
+    src: url(bpg_extrasquare_mtavruli_2009.ttf);
+    font-family: geofontnuskha;
+    src: url(bpg_nuskha_modern.ttf);
+}
+
+.font {
+    font-family: geofont;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.font2{
+    font-family: geofontmtavruli;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.font3{
+    font-family: geofontnuskha;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.div2, .div3, .div4{
+    margin: 20px;
+    position: relative;
+    left: 85px;
+}
