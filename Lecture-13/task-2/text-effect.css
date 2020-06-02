@@ -1,0 +1,50 @@
+.cont{
+    display: flex;
+    width: 800px;
+    height: 130px;
+    background-color: silver;
+    border: solid 2px black;
+    margin: auto;
+}
+h2{
+    margin: auto;
+}
+.h2-1{
+    color: white;
+    text-shadow: white 4px 5px;
+}
+.h2-2{
+    color: white;
+    text-shadow: yellow 4px 4px;
+}
+.h2-3{
+    text-shadow: 0 0 8px red;
+}
+.h2-4{
+    text-shadow: 0 0 8px blue;
+}
+
+.div-1,.div-2,.div-3,.div-4{
+    display: flex;
+    width: 150px;
+    height: 70px;
+    background-color: black;
+    align-items: flex-start;
+    margin: 25px;
+}
+.div-1{
+    background-image: linear-gradient(red, green, blue);
+}
+.div-2{
+    background-image: linear-gradient(to right bottom,red 50%,green,blue );
+}
+.div-3{
+    background-color: transparent;
+    border: solid 1px blue;
+    box-shadow: 7px 7px 12px red;
+}
+.div-4{
+    background-color: transparent;
+    border: solid 1px blue;
+    box-shadow: 5px 5px 8px black;
+}
