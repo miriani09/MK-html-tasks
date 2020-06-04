@@ -1,0 +1,110 @@
+.cont{
+    width: 800px;
+    min-height: 400px;
+    margin: auto;
+}
+
+.flex{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div1{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div2{
+    width: 400px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div4{
+    width: 400px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div5{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div6{
+    width: 150px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div7{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div8{
+    width: 150px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div9{
+    width: 400px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div10{
+    width: 150px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div11{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div12{
+    width: 150px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div13{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
+.div14{
+    width: 150px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+}
